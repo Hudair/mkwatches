@@ -1,0 +1,670 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woodstock Extensions\n"
+"POT-Creation-Date: 2022-02-03 19:49+0100\n"
+"PO-Revision-Date: 2022-02-03 19:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woodstock-extensions.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: modules/shortcodes/from-the-blog.php:88
+msgid "No comments yet"
+msgstr ""
+
+#: modules/shortcodes/from-the-blog.php:88
+msgid "1 comment"
+msgstr ""
+
+#: modules/shortcodes/from-the-blog.php:88
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:49
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:52
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:55
+msgid "Follow us on Google Plus"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:58
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:61
+msgid "Follow us on Vimeo"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:64
+msgid "Follow us on YouTube"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:67
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:70
+msgid "Follow us on Skype"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:73
+msgid "Follow us on Behance"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:76
+msgid "Follow us on Dribbble"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:79
+msgid "Follow us on Tumblr"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:82
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:85
+msgid "Follow us on Github"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:88
+msgid "Follow us on Vine"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:91
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:94
+msgid "Follow us on Dropbox"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:97
+msgid "Follow us on RSS"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:100
+msgid "Email Us"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:103
+msgid "Follow us on Stumbleupon"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:106
+msgid "Follow us on Paypal"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:109
+msgid "Follow us on Foursquare"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:112
+msgid "Follow us on Soundcloud"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:115
+msgid "Follow us on Spotify"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:118
+msgid "Follow us on Vkontakte"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:121
+msgid "Follow us on Android"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:124
+msgid "Follow us on Apple"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:127
+msgid "Follow us on Microsoft"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:130
+msgid "Follow us on WhatsApp"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:133
+msgid "Follow us on Etsy"
+msgstr ""
+
+#: modules/shortcodes/header-contact.php:136
+msgid "Follow us on Twitch"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:31
+msgid "Blog Posts"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:32
+#: modules/shortcodes/visual-composer/from-the-blog.php:32
+msgid "Content"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:33
+#: modules/shortcodes/visual-composer/from-the-blog.php:33
+msgid "Display the latest posts in the blog"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:56
+#: modules/shortcodes/visual-composer/from-the-blog.php:46
+msgid "Number of Posts"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:59
+#: modules/shortcodes/visual-composer/from-the-blog.php:49
+msgid "Number of posts to be displayed in the slider."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/blog-posts.php:67
+#: modules/shortcodes/visual-composer/from-the-blog.php:57
+msgid "Category"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/from-the-blog.php:31
+msgid "Posts Slider"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:18
+msgid "Map height"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:22
+msgid ""
+"Enter map height in pixels. Example: 200. <span>As of June 2016, a Google "
+"map API key is needed to allow this element to display. Please See the Theme "
+"Options panel > General Settings > Google map API key.</span>"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:28
+msgid "Latitude"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:32
+msgid ""
+"Please enter the latitude for the maps center point. You can use <a "
+"href='http://universimmedia.pagesperso-orange.fr/geo/loc.htm' "
+"target='_blank'>this service</a> to get coordinates of your location"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:37
+msgid "Longitude"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:41
+msgid "Please enter the longitude for the maps center point."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:47
+msgid "Map Zoom"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:52
+msgid "Zoom level when focus the marker. 0-20"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:57
+msgid "Eanble Zoom In/Out"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:60
+msgid "Do you want users to be able to zoom in/out on the map?"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:61
+#: modules/shortcodes/visual-composer/google-map.php:78
+#: modules/shortcodes/visual-composer/google-map.php:87
+#: modules/shortcodes/visual-composer/google-map.php:107
+#: modules/shortcodes/visual-composer/google-map.php:116
+#: modules/shortcodes/visual-composer/wc-product-categories.php:109
+msgid "Yes, please"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:66
+msgid "Marker Image"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:70
+msgid "Select image from media library."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:74
+msgid "Marker Animation"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:77
+msgid "This will cause your markers to do a quick bounce as they load in."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:83
+msgid "Greyscale Color"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:86
+msgid ""
+"Toggle a greyscale color scheme (will also unlock further custom options)"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:102
+msgid "Ultra Flat Map"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:106
+msgid "This removes street/landmark text & some extra details for a clean look"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:111
+msgid "Dark Color Scheme"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:115
+msgid ""
+"Enable this option for a dark colored map (This will override the extra "
+"color choice)"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:121
+msgid "Map Marker Locations"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/google-map.php:124
+msgid ""
+"Please enter the the list of locations you would like with a latitude|"
+"longitude|description format. <br/> Divide values with linebreaks (Enter). "
+"Example: <br/> 40.692784|-73.978763|Our Location <br/> 39.946814|-75.143038|"
+"Our Location #2"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:6
+msgid "Social Media Profiles"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:7
+msgid "Social"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:8
+msgid "Links to your social media profiles"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/social-media-profiles.php:20
+msgid "Align"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-button-custom.php:19
+#: modules/shortcodes/visual-composer/wc-product-by-id-sku.php:19
+msgid "Product"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-button-custom.php:27
+#: modules/shortcodes/visual-composer/wc-product-by-id-sku.php:27
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:36
+msgid "Select the product you'd like to display."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:6
+msgid "Add to Cart URL"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:7
+msgid "WooCommerce"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:8
+msgid "Description"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:20
+#: modules/shortcodes/visual-composer/wc-featured-products.php:69
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:37
+#: modules/shortcodes/visual-composer/wc-product-categories.php:8
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:97
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:99
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:75
+#: modules/shortcodes/visual-composer/wc-recent-products.php:69
+#: modules/shortcodes/visual-composer/wc-sale-products.php:66
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:66
+msgid "ID"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-add-to-cart-url.php:30
+msgid "SKU"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:68
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:36
+#: modules/shortcodes/visual-composer/wc-product-categories.php:7
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:96
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:98
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:74
+#: modules/shortcodes/visual-composer/wc-recent-products.php:68
+#: modules/shortcodes/visual-composer/wc-sale-products.php:65
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:65
+msgid "Date"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:70
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:38
+#: modules/shortcodes/visual-composer/wc-product-categories.php:9
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:98
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:100
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:76
+#: modules/shortcodes/visual-composer/wc-recent-products.php:70
+#: modules/shortcodes/visual-composer/wc-sale-products.php:67
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:67
+msgid "Author"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:71
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:39
+#: modules/shortcodes/visual-composer/wc-product-categories.php:10
+#: modules/shortcodes/visual-composer/wc-product-categories.php:38
+#: modules/shortcodes/visual-composer/wc-product-categories.php:199
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:26
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:99
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:101
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:77
+#: modules/shortcodes/visual-composer/wc-recent-products.php:71
+#: modules/shortcodes/visual-composer/wc-sale-products.php:68
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:68
+#: modules/theme-shortcodes.php:24 modules/theme-shortcodes.php:47
+#: modules/widgets/woo-attributes-filter.php:78
+#: modules/widgets/woocommerce-cart.php:19
+msgid "Title"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:72
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:40
+#: modules/shortcodes/visual-composer/wc-product-categories.php:11
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:100
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:102
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:78
+#: modules/shortcodes/visual-composer/wc-recent-products.php:72
+#: modules/shortcodes/visual-composer/wc-sale-products.php:69
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:69
+msgid "Modified"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:73
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:41
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:101
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:103
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:79
+#: modules/shortcodes/visual-composer/wc-recent-products.php:73
+#: modules/shortcodes/visual-composer/wc-sale-products.php:70
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:70
+msgid "Random"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:74
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:42
+#: modules/shortcodes/visual-composer/wc-product-categories.php:12
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:102
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:104
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:80
+#: modules/shortcodes/visual-composer/wc-recent-products.php:74
+#: modules/shortcodes/visual-composer/wc-sale-products.php:71
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:71
+msgid "Comment count"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:75
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:43
+#: modules/shortcodes/visual-composer/wc-product-categories.php:13
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:103
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:105
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:81
+#: modules/shortcodes/visual-composer/wc-recent-products.php:75
+#: modules/shortcodes/visual-composer/wc-sale-products.php:72
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:72
+msgid "Menu order"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:88
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:56
+#: modules/shortcodes/visual-composer/wc-product-categories.php:19
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:116
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:118
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:94
+#: modules/shortcodes/visual-composer/wc-recent-products.php:88
+#: modules/shortcodes/visual-composer/wc-sale-products.php:84
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:84
+msgid "Descending"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-featured-products.php:89
+#: modules/shortcodes/visual-composer/wc-product-categories-grid.php:57
+#: modules/shortcodes/visual-composer/wc-product-categories.php:20
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:117
+#: modules/shortcodes/visual-composer/wc-products-by-category.php:119
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:95
+#: modules/shortcodes/visual-composer/wc-recent-products.php:89
+#: modules/shortcodes/visual-composer/wc-sale-products.php:85
+#: modules/shortcodes/visual-composer/wc-top-rated-products.php:85
+msgid "Ascending"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:14
+msgid "As IDs or slugs provided order"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:24
+msgid "Product Categories - Thumbs"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:49
+msgid "How many product categories to display?"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:59
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:68
+msgid "Columns"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:67
+#: modules/widgets/product-categories.php:104
+msgid "Order by"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:71
+#, php-format
+msgid "Select how to sort retrieved categories. More at %s."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:80
+msgid "Sort order"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:84
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:97
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:79
+msgid "Layout Style"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:107
+msgid "Hide empty"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:127
+msgid "Categories"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:134
+msgid "List of product categories"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:162
+#: modules/shortcodes/visual-composer/wc-product-categories.php:202
+#: modules/theme-shortcodes.php:24 modules/theme-shortcodes.php:47
+msgid "Id"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:164
+#: modules/widgets/product-categories.php:107
+msgid "Name"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:166
+msgid "Slug"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-product-categories.php:194
+msgid "Sku"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:12
+msgid "Products by Attribute"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:33
+#: modules/widgets/woo-attributes-filter.php:83
+msgid "Attribute"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:37
+msgid "List of product taxonomy attribute"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:42
+msgid "Filter"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:46
+msgid "Taxonomy values"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-attribute.php:57
+msgid "Number of Products"
+msgstr ""
+
+#: modules/shortcodes/visual-composer/wc-products-by-ids-skus.php:29
+msgid "Products"
+msgstr ""
+
+#: modules/widgets/product-categories.php:68
+#, php-format
+msgctxt "product category name"
+msgid "%s"
+msgstr ""
+
+#: modules/widgets/product-categories.php:97
+msgid "A list of product categories."
+msgstr ""
+
+#: modules/widgets/product-categories.php:99
+msgid "Woodstock product categories with icon"
+msgstr ""
+
+#: modules/widgets/product-categories.php:106
+msgid "Category order"
+msgstr ""
+
+#: modules/widgets/product-categories.php:113
+msgid "Show product counts"
+msgstr ""
+
+#: modules/widgets/product-categories.php:118
+msgid "Hide empty categories"
+msgstr ""
+
+#: modules/widgets/product-categories.php:123
+msgid "Hide category icon"
+msgstr ""
+
+#: modules/widgets/product-categories.php:128
+msgid "Expand All"
+msgstr ""
+
+#: modules/widgets/product-categories.php:179
+msgid "No product categories exist."
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:25
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:27
+msgid "Woodstock Attributes Filter"
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:77
+msgid "Filter by"
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:89
+msgid "Query type"
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:91
+msgid "AND"
+msgstr ""
+
+#: modules/widgets/woo-attributes-filter.php:92
+msgid "OR"
+msgstr ""
+
+#: modules/widgets/woocommerce-cart.php:12
+msgid "Display the user's cart in the sidebar."
+msgstr ""
+
+#: modules/widgets/woocommerce-cart.php:14
+msgid "WooCommerce cart"
+msgstr ""
+
+#: modules/widgets/woocommerce-cart.php:18
+msgid "Cart"
+msgstr ""
+
+#: modules/widgets/woocommerce-cart.php:24
+msgid "Hide if cart is empty"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woodstock Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://woodstock.temashdesign.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extensions for Woodstock Wordpress Theme. Supplied as a separate plugin so "
+"that the customer does not find empty shortcodes on changing the theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Temash Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://temashdesign.com/"
+msgstr ""

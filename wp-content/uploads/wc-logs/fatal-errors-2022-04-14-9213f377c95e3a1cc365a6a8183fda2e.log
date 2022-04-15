@@ -1,0 +1,10 @@
+2022-04-14T00:41:24+00:00 CRITICAL Uncaught Error: Call to undefined function woodstock_update_listing_expiring_dates() in D:\laragon\www\MKwatches\wp-content\themes\woodstock\includes\merlin\class-merlin.php:2565
+Stack trace:
+#0 D:\laragon\www\MKwatches\wp-includes\class-wp-hook.php(303): Merlin->after_content_import_setup('')
+#1 D:\laragon\www\MKwatches\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 D:\laragon\www\MKwatches\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 D:\laragon\www\MKwatches\wp-content\themes\woodstock\includes\merlin\vendor\proteusthemes\wp-content-importer-v2\src\WXRImporter.php(566): do_action('import_end')
+#4 D:\laragon\www\MKwatches\wp-content\themes\woodstock\includes\merlin\vendor\proteusthemes\wp-content-importer-v2\src\Importer.php(435): ProteusThemes\WPContentImporter2\WXRImporter->import_end()
+#5 D:\laragon\www\MKwatches\wp-content\themes\woodstock\includes\merlin\class-merlin.php(2185): ProteusThemes\WPContentImporter2\Importer->import('D:\\laragon\\www\\...')
+#6 D:\laragon in D:\laragon\www\MKwatches\wp-content\themes\woodstock\includes\merlin\class-merlin.php on line 2565
+
